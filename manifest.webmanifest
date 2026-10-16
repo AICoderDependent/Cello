@@ -1,0 +1,15 @@
+{
+  "name": "Cello trainer",
+  "short_name": "Cello",
+  "description": "Cello tuner and step-by-step practice lessons with live pitch feedback from the tablet microphone.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#14232a",
+  "theme_color": "#14232a",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
